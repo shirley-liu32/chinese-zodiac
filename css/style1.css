@@ -1,0 +1,23 @@
+html{
+  background-color: black;
+}
+h1{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 100px;
+  color: white;
+
+}
+a{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 70px;
+  color: white;
+
+}
+a:hover {
+  color: #00CED1;
+}
+p{
+  color: white;
+  font-size: 30px;
+  font-family: 'Major Mono Display', monospace;
+}

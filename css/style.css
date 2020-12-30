@@ -1,0 +1,60 @@
+
+.Rat, .Ox, .Tiger, .Rabbit, .Dragon, .Snake, .Horse, .Goat, .Monkey,
+ .Rooster, .Dog, .Pig{
+  border: solid white;
+  width: 380px;
+  height: 200px;
+  /* background-color: lightgray; */
+  font-family: 'Major Mono Display', monospace;
+  font-size: 30px;
+  /* padding-top: 50px; */
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 5px;
+  padding-bottom: 200px;
+
+}
+.text p {
+color: white;
+font-family: 'Major Mono Display', monospace;
+font-size: 20px;
+height: 20px;
+}
+
+.zodiac{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  margin-left: 30px;
+  justify-content: center;
+  align-items: center;
+  color:red;
+}
+
+
+.box1{
+  z-index: 1;
+}
+
+.fpic{
+  padding-left: 38px;
+}
+
+
+.ratp, .oxp, .tigerp, .rabbitp, .dragonp, .snakep, .horsep, .goatp, .monkeyp,
+ .roosterp, .dogp, .pigp{
+  visibility: hidden;
+}
+#Click {
+background-color: black;
+height: 150px
+color: white;
+font-size: 30px;
+font-family: "Arial",cursive;
+justify-content: center;
+align-items: center;
+margin: none;
+padding-bottom: 50px;
+
+}

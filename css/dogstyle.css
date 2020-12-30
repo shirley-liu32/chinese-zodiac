@@ -1,0 +1,47 @@
+html{
+  background-color: black;
+}
+h1{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 100px;
+  color: white;
+}
+.dog-gif{
+  border: white 3px solid;
+  display: flex;
+  flex-direction: row;
+  height:470px;
+}
+p{
+  color: white;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 35px;
+  padding-top: 80px;
+  padding-right: 10px;
+
+}
+.arrows{
+  display: flex;
+  flex-direction: row;
+
+}
+.arrow{
+  margin-top: 5px;
+}
+
+.left{
+  margin-right: 1240px;
+}
+h3{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 30px;
+  color: white;
+
+}
+audio{
+  margin-top: 10px;
+
+}
+.aud{
+  margin-right: 20px;
+}
